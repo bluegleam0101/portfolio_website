@@ -1,0 +1,110 @@
+html {
+}
+
+
+
+
+body {
+    font-family: Trebuchet MS;
+    background-image: url('../../static/images/pexels-gradienta-7130555.jpg'); no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.name_title {
+    position: relative;
+    left: 100px;
+    top: 100px;
+    width: 750px;
+    padding: 50px;
+    float: left;
+    filter: alpha(opacity=90);
+
+}
+
+.text_block_info {
+    background-color: rgba(255, 255, 255, 0.6);
+    color: black;
+    position: relative;
+    top: 300px;
+    margin: 0 auto;
+    width: 95%;
+    font-size: 1.25em;
+    float: left;
+    padding: 30px
+
+
+}
+
+.menu {
+    font-size: 1em;
+    color:  white;
+    position: absolute;
+    left: 1000px;
+    top: 200px;
+    width: 300px;
+    height: 300px;
+    filter: alpha(opacity=90);
+
+}
+
+a {
+    color: black;
+}
+
+
+
+.selfie {
+    height:300px;
+    width: auto;
+    z-index: 10;
+    position: relative;
+    float: right;
+    transform: rotate(-90deg);
+}
+
+.rocket_img {
+    display: inline;
+    width: 300px;
+    height: auto;
+}
+
+.abt_me_txt {
+    display: inline;
+}
+
+.abt_me_cnt {
+display: flex;
+width: 1000px;
+
+}
+
+
+.divider {
+    background-color: black;
+    color:black;
+    position: relative;
+    top: 250px;
+    width: 1200px;
+    height: 1px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    align: center;
+
+}
+
+.background_image {
+
+
+  width: auto;
+  height: auto;
+
+  align: center;
+}
+
+.title_screen {
+align: center;
+}
+
